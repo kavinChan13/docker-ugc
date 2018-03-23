@@ -1,0 +1,13 @@
+{
+  "name": "stdintest",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "kavin",
+  "main": "teststdin.js",
+  "scripts": {
+    "start": "node teststdin.js"
+  },
+  "dependencies": {
+    "cnpm": "^5.2.0"
+  }
+}
